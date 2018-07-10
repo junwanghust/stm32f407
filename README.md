@@ -7,7 +7,7 @@ some device driver base on stm32f407
 
 # BASE
 硬件：屋脊雀F407（STM32F407ZG）
-环境：MDK
+环境：MDK/Keil
 
 # 教程
 每个驱动开发都有配套源码和教程：
